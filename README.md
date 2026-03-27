@@ -2,7 +2,9 @@
 <p align="center">
   <img src="Apple_demo.png" width="700">
 </p>
-## 📌 Project Overview
+
+## 📌 **Project Overview**
+
 This project is a deep learning-based system for detecting diseases in apple fruits.  
 It uses a pretrained EfficientNetB0 model to classify images into different disease categories.
 
